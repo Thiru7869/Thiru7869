@@ -1,55 +1,32 @@
-# =============================================================================
-#  GitHub Actions Workflow: Snake Animation + Profile Auto-Update
-#  File: .github/workflows/snake.yml
-#  Repo: Thiru7869/Thiru7869  (your special profile repository)
-# =============================================================================
-#
-#  WHAT THIS DOES:
-#    1. Generates a snake animation SVG from your GitHub contribution graph
-#    2. Saves both a light and dark version to the `output` branch
-#    3. Runs automatically every 6 hours AND on every push to main
-#
-#  SETUP (one-time):
-#    • Go to Settings → Actions → General → Workflow permissions
-#    • Select "Read and write permissions" → Save
-#    • The workflow will create the `output` branch on first run automatically
-# =============================================================================
-
 name: 🐍 Generate Snake Animation
 
 on:
   schedule:
-    # Runs at 00:00, 06:00, 12:00, 18:00 UTC every day
     - cron: "0 */6 * * *"
 
-  # Allow manual trigger from the Actions tab
   workflow_dispatch:
 
-  # Also run on every push to main
   push:
     branches:
       - main
 
 jobs:
   generate-snake:
-    name: Generate Snake SVG
     runs-on: ubuntu-latest
 
     permissions:
-      contents: write   # needed to push to `output` branch
+      contents: write
 
     steps:
-      # ── Step 1: Generate the snake SVGs ──────────────────────────────────
-      - name: Generate snake animation (light + dark)
+      - name: Generate Snake SVG
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: Thiru7869
           outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      # ── Step 2: Push the generated SVGs to the `output` branch ──────────
-      - name: Push snake SVGs to output branch
+      - name: Push Snake SVG to Output Branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
