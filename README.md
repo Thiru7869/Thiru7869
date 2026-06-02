@@ -108,3 +108,12 @@ AWS Fundamentals
 ---
 
 <h3 align="center">Building projects, learning continuously, and improving every day.</h3>
+
+
+
+
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Thiru7869/Thiru7869/output/github-contribution-grid-snake.svg">
+</p>
