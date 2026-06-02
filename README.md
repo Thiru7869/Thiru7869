@@ -1,270 +1,293 @@
+````md
 <!-- ============================================================ -->
 <!--        GITHUB PROFILE README — Thirumala Narasimha Poluru    -->
-<!--        Username : Thiru7869                                   -->
-<!--        Stack    : HTML · CSS · JS · Node.js · Express         -->
-<!--        Theme    : Black / Purple / Blue  Futuristic           -->
 <!-- ============================================================ -->
 
-<!-- ─────────────────────  HEADER BANNER  ───────────────────── -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:1a0533,70:7928CA,100:0070F3&height=220&section=header&text=Thirumala%20Narasimha%20Poluru&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20B.Tech%20CSE%20%7C%20Tirupati%2C%20India%20🇮🇳&descAlignY=58&descSize=16&descColor=c0c0ff" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:1a0533,70:7928CA,100:0070F3&height=220&section=header&text=Thirumala%20Narasimha%20Poluru&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20B.Tech%20CSE%20%7C%20India%20🇮🇳&descAlignY=58&descSize=16&descColor=c0c0ff" />
 
-<!-- ─────────────────────  TYPING SVG  ──────────────────────── -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=900&color=7928CA&center=true&vCenter=true&width=750&lines=Hey+there!+I'm+Thiru+👋;Full+Stack+Developer+in+the+Making+🚀;HTML+%7C+CSS+%7C+JavaScript+%7C+Node.js;Turning+ideas+into+real+web+experiences+✨;Open+for+Internships+%26+Full-Time+Roles+💼;Let's+build+something+great+together!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=900&color=7928CA&center=true&vCenter=true&width=760&lines=Hey+there!+I'm+Thiru+👋;Full+Stack+Developer+🚀;HTML+%7C+CSS+%7C+JavaScript+%7C+Node.js;Building+Modern+Web+Experiences+✨;Open+for+Internships+%26+Jobs+💼)](https://git.io/typing-svg)
 
 <br/>
 
-<!-- ─────────────────────  BADGES ROW  ──────────────────────── -->
-![Profile Views](https://komarev.com/ghpvc/?username=Thiru7869&style=for-the-badge&color=7928CA&labelColor=0d1117&label=PROFILE+VIEWS)&nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/Thiru7869?style=for-the-badge&color=0070F3&labelColor=0d1117&logo=github&label=Followers)](https://github.com/Thiru7869?tab=followers)&nbsp;
+![Profile Views](https://komarev.com/ghpvc/?username=Thiru7869&style=for-the-badge&color=7928CA&labelColor=0d1117&label=PROFILE+VIEWS)
+[![GitHub followers](https://img.shields.io/github/followers/Thiru7869?style=for-the-badge&color=0070F3&labelColor=0d1117&logo=github&label=Followers)](https://github.com/Thiru7869?tab=followers)
 ![Open For Work](https://img.shields.io/badge/🚀%20Open%20For-Internships%20%26%20Jobs-00d26a?style=for-the-badge&labelColor=0d1117)
 
 </div>
 
-<br/>
-
 ---
 
-<!-- ─────────────────────  ABOUT ME  ────────────────────────── -->
-<img align="right" alt="Developer at Work" width="340"
-     src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+<img align="right" alt="Developer" width="320" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
-## 🧑‍💻 About Me
+# 🧑‍💻 About Me
 
 ```yaml
-┌─────────────────────────────────────────────────┐
-│  Name     :  Thirumala Narasimha Poluru          │
-│  Alias    :  Thiru                               │
-│  Location :  Tirupati, Andhra Pradesh 🇮🇳        │
-│  Degree   :  B.Tech — Computer Science & Engg   │
-│  Status   :  🟢 Actively Seeking Opportunities  │
-│  Focus    :  Full Stack Web Development          │
-│  Email    :  reddytn4@gmail.com                  │
-└─────────────────────────────────────────────────┘
-```
+Name      : Thirumala Narasimha Poluru
+Alias     : Thiru
+Role      : Full Stack Developer
+Education : B.Tech CSE
+Location  : India 🇮🇳
+Status    : Open to Opportunities
+````
 
-- 🔭 **Currently building** my [Full-Stack Portfolio v13](https://github.com/Thiru7869/New_Portfolio) with Node.js + Express backend, Gmail SMTP, and dark/light mode
-- 🎵 **Built** a [Genre Music Selector](https://github.com/Thiru7869/Genre-music-selector) supporting Telugu, Tamil, Hindi & Rock with smooth animations
-- 🌦️ **Created** a [Weather Predictor](https://github.com/Thiru7869/Weather-predicter) using live API data
-- 🛒 **Designed** e-commerce & product landing pages (HTML/CSS) with responsive layouts
-- 🏢 **Interned** at DataValley · EdunutShell · ExceLr · XAASWEB · AWS
-- 📚 **Currently Learning** React.js · Python · MongoDB · TailwindCSS
-- ⚡ **Fun fact:** I built a full portfolio with a backend review system + automated email notifications just to impress one recruiter — worth it 😄
+* 🔭 Building Full Stack Applications
+* 🌐 Creating Responsive Websites
+* ⚙️ Learning Backend & Cloud Technologies
+* 📚 Exploring React.js, MongoDB & TypeScript
+* 🚀 Interested in Real-World Projects
+* 💼 Open for Internships & Entry-Level Roles
 
 <br clear="right"/>
 
 ---
 
-<!-- ─────────────────────  TECH STACK  ──────────────────────── -->
-## 🛠️ Tech Stack & Tools
+# 🌐 Live Portfolio
 
 <div align="center">
 
-### 💻 Frontend Development
-<img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark&perline=8" />
+<a href="https://new-portfolio-1-ba0l.onrender.com">
+  <img src="https://img.shields.io/badge/🚀%20Live%20Portfolio-Visit%20Now-7928CA?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117"/>
+</a>
 
-### ⚙️ Backend & Runtime
-<img src="https://skillicons.dev/icons?i=nodejs,express,npm&theme=dark&perline=8" />
+<br/><br/>
 
-### 🗄️ Databases & Cloud
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,aws&theme=dark&perline=8" />
-
-### 🎨 Design & Dev Tools
-<img src="https://skillicons.dev/icons?i=figma,vscode,git,github,postman&theme=dark&perline=8" />
-
-### 🚀 Deployment Platforms
-<img src="https://skillicons.dev/icons?i=vercel,netlify,render&theme=dark&perline=8" />
-
-### 📚 Currently Learning
-<img src="https://skillicons.dev/icons?i=react,python,mongodb,tailwind,typescript&theme=dark&perline=8" />
+### 🔗 https://new-portfolio-1-ba0l.onrender.com
 
 </div>
 
 ---
 
-<!-- ─────────────────────  GITHUB STATS  ───────────────────── -->
-## 📊 GitHub Analytics
+# 🛠️ Tech Stack
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Thiru7869&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7928CA&icon_color=0070F3&text_color=c0c0ff&border_radius=14&count_private=true&include_all_commits=true" />
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Thiru7869&theme=tokyonight&hide_border=true&background=0d1117&ring=7928CA&fire=FF4500&currStreakLabel=0070F3&sideLabels=c0c0ff&dates=888888&border_radius=14" />
+### 💻 Frontend
 
-</div>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap&theme=dark"/>
 
-<div align="center">
+### ⚙️ Backend
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiru7869&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7928CA&text_color=c0c0ff&border_radius=14&langs_count=8&card_width=450" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,npm&theme=dark"/>
 
-</div>
+### 🗄️ Database & Cloud
 
----
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,aws&theme=dark"/>
 
-<!-- ─────────────────────  TROPHIES  ────────────────────────── -->
-## 🏆 GitHub Trophies
+### 🧰 Tools
 
-<div align="center">
+<img src="https://skillicons.dev/icons?i=vscode,git,github,figma,postman&theme=dark"/>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Thiru7869&theme=discord&no-frame=true&no-bg=true&margin-w=10&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
+### 🚀 Deployment
 
-</div>
-
----
-
-<!-- ─────────────────────  ACTIVITY GRAPH  ──────────────────── -->
-## 📈 Contribution Activity
-
-<div align="center">
-
-[![Thiru's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Thiru7869&bg_color=0d1117&color=7928CA&line=0070F3&point=ffffff&area=true&hide_border=true&area_color=22007a&radius=14&custom_title=Thiru's%20Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img src="https://skillicons.dev/icons?i=vercel,netlify,render&theme=dark"/>
 
 </div>
 
 ---
 
-<!-- ─────────────────────  FEATURED PROJECTS  ───────────────── -->
-## 🚀 Featured Projects
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Thiru7869&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7928CA&icon_color=0070F3&text_color=c0c0ff&count_private=true"/>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Thiru7869&theme=tokyonight&hide_border=true&background=0d1117&ring=7928CA&fire=0070F3&currStreakLabel=ffffff"/>
+
+</div>
+
+<div align="center">
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiru7869&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7928CA&text_color=c0c0ff"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Thiru7869\&theme=discord\&no-frame=true\&no-bg=true\&margin-w=8\&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+[![Thiru's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Thiru7869\&bg_color=0d1117\&color=7928CA\&line=0070F3\&point=ffffff\&area=true\&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+# 🚀 Featured Projects
 
 <div align="center">
 
 <a href="https://github.com/Thiru7869/New_Portfolio">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Thiru7869&repo=New_Portfolio&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7928CA&icon_color=0070F3&text_color=c0c0ff&border_radius=14&description_lines_count=2" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Thiru7869&repo=New_Portfolio&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
 </a>
+
 <a href="https://github.com/Thiru7869/Genre-music-selector">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Thiru7869&repo=Genre-music-selector&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7928CA&icon_color=0070F3&text_color=c0c0ff&border_radius=14&description_lines_count=2" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Thiru7869&repo=Genre-music-selector&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
 </a>
 
 <a href="https://github.com/Thiru7869/Weather-predicter">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Thiru7869&repo=Weather-predicter&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7928CA&icon_color=0070F3&text_color=c0c0ff&border_radius=14&description_lines_count=2" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Thiru7869&repo=Weather-predicter&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
 </a>
+
 <a href="https://github.com/Thiru7869/ProductLanding-page">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Thiru7869&repo=ProductLanding-page&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7928CA&icon_color=0070F3&text_color=c0c0ff&border_radius=14&description_lines_count=2" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Thiru7869&repo=ProductLanding-page&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
 </a>
 
 </div>
 
 ---
 
-<!-- ─────────────────────  INTERNSHIPS  ─────────────────────── -->
-## 🎓 Internships & Certifications
+# 🎓 Internships & Certifications
 
 <div align="center">
 
-| 🏢 Organization | 📋 Program | 🏅 Status |
-|:---:|:---:|:---:|
-| 🔵 **DataValley** | Data Science Internship | ✅ Completed |
-| 📗 **EdunutShell** | Web Development Internship | ✅ Completed |
-| 📘 **ExceLr** | Full Stack Development Program | ✅ Completed |
-| 🌐 **XAASWEB** | Frontend Development Internship | ✅ Completed |
-| ☁️ **Amazon Web Services** | AWS Cloud Foundations | ✅ Certified |
-| 📜 **NPTEL** | Programming / Technical Course | ✅ Certified |
+| Organization      | Program                 | Status |
+| ----------------- | ----------------------- | ------ |
+| DataValley        | Data Science Internship | ✅      |
+| Edunet Foundation | Web Development         | ✅      |
+| ExceLr            | Full Stack Program      | ✅      |
+| XAASWEB           | Frontend Internship     | ✅      |
+| AWS               | Cloud Foundations       | ✅      |
+| NPTEL             | Technical Course        | ✅      |
 
 </div>
 
 ---
 
-<!-- ─────────────────────  WHAT I'M LEARNING  ───────────────── -->
-## 📚 Currently Learning Roadmap
+# 📚 Learning Roadmap
 
-```
-Frontend       ██████████████████░░   90%  HTML · CSS · Vanilla JS
-Node.js        ████████████████░░░░   80%  Express · REST APIs · Nodemailer
-React.js       ████████░░░░░░░░░░░░   40%  Components · Hooks · State
-Python         █████░░░░░░░░░░░░░░░   25%  Basics · Data Structures
-MongoDB        ████░░░░░░░░░░░░░░░░   20%  Schema · CRUD · Mongoose
-TailwindCSS    ██████████░░░░░░░░░░   50%  Utility Classes · Responsive
-TypeScript     ███░░░░░░░░░░░░░░░░░   15%  Types · Interfaces
+```txt
+Frontend       ██████████████████░░   90%
+Node.js        ████████████████░░░░   80%
+React.js       ████████░░░░░░░░░░░░   40%
+Python         █████░░░░░░░░░░░░░░░   25%
+MongoDB        ████░░░░░░░░░░░░░░░░   20%
+TailwindCSS    ██████████░░░░░░░░░░   50%
+TypeScript     ███░░░░░░░░░░░░░░░░░   15%
 ```
 
 ---
 
-<!-- ─────────────────────  SNAKE  ────────────────────────────── -->
-## 🐍 Contribution Snake
+# 🐍 Contribution Snake
 
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)"
-          srcset="https://raw.githubusercontent.com/Thiru7869/Thiru7869/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)"
-          srcset="https://raw.githubusercontent.com/Thiru7869/Thiru7869/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake"
-       src="https://raw.githubusercontent.com/Thiru7869/Thiru7869/output/github-contribution-grid-snake-dark.svg" />
-</picture>
+          srcset="https://raw.githubusercontent.com/Thiru7869/Thiru7869/output/github-contribution-grid-snake-dark.svg"/>
+
+<source media="(prefers-color-scheme: light)"
+       srcset="https://raw.githubusercontent.com/Thiru7869/Thiru7869/output/github-contribution-grid-snake.svg"/>
+
+<img alt="github contribution snake"
+    src="https://raw.githubusercontent.com/Thiru7869/Thiru7869/output/github-contribution-grid-snake-dark.svg"/> </picture>
 
 </div>
 
 ---
 
-<!-- ─────────────────────  QUOTE  ───────────────────────────── -->
-## 💬 Dev Thought of the Day
+# 💬 Dev Quote
 
 <div align="center">
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 </div>
 
 ---
 
-<!-- ─────────────────────  SUPPORT / FUN  ──────────────────── -->
-## ⚡ Quick Facts
+# ⚡ Quick Facts
 
 ```javascript
 const thiru = {
-  name       : "Thirumala Narasimha Poluru",
-  location   : "Tirupati, Andhra Pradesh, India 🇮🇳",
-  education  : "B.Tech CSE",
-  stack      : ["HTML", "CSS", "JavaScript", "Node.js", "Express", "AWS"],
-  learning   : ["React", "Python", "MongoDB", "TypeScript"],
-  hobbies    : ["Coding", "Music 🎵", "Cricket 🏏", "Exploring new tech"],
-  funFact    : "I debug with console.log and I'm not ashamed of it 😄",
-  openTo     : ["Internships", "Junior Dev Roles", "Freelance Projects"],
-  contact    : "reddytn4@gmail.com",
-  motto      : "Build, Break, Learn, Repeat 🔁"
+  name: "Thirumala Narasimha Poluru",
+  role: "Full Stack Developer",
+  education: "B.Tech CSE",
+  skills: [
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "React",
+    "Node.js",
+    "Express",
+    "MongoDB"
+  ],
+  learning: [
+    "TypeScript",
+    "TailwindCSS",
+    "Cloud"
+  ],
+  hobbies: [
+    "Coding",
+    "Music",
+    "Cricket"
+  ],
+  openTo: [
+    "Internships",
+    "Full Time Roles",
+    "Freelancing"
+  ]
 };
 ```
 
 ---
 
-<!-- ─────────────────────  CONNECT  ──────────────────────────── -->
-## 📫 Connect With Me
+# 📫 Connect With Me
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-reddytn4%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:reddytn4@gmail.com)&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://linkedin.com/in/thirumala-narasimha-poluru)&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-Thiru7869-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/Thiru7869)&nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-View%20Now-7928CA?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117)](https://github.com/Thiru7869/New_Portfolio)
+[![Gmail](https://img.shields.io/badge/Gmail-reddytn4%40gmail.com-D14836?style=for-the-badge\&logo=gmail\&logoColor=white\&labelColor=0d1117)](mailto:reddytn4@gmail.com)
 
-<br/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white\&labelColor=0d1117)](https://linkedin.com/in/thirumala-narasimha-poluru)
 
-**📥 Download My Resume**
+[![GitHub](https://img.shields.io/badge/GitHub-Thiru7869-181717?style=for-the-badge\&logo=github\&logoColor=white\&labelColor=0d1117)](https://github.com/Thiru7869)
 
-[![Resume](https://img.shields.io/badge/📄%20Download-My%20Resume-0070F3?style=for-the-badge&labelColor=0d1117)](https://github.com/Thiru7869/New_Portfolio/tree/main/download)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View%20Now-7928CA?style=for-the-badge\&logo=vercel\&logoColor=white\&labelColor=0d1117)](https://new-portfolio-1-ba0l.onrender.com)
 
 </div>
 
 ---
 
-<!-- ─────────────────────  OPEN FOR WORK BADGE  ─────────────── -->
+# 📄 Resume
+
 <div align="center">
 
-![Open for Opportunities](https://img.shields.io/badge/✅%20AVAILABLE-Open%20for%20Internships%20%26%20Full--Time%20Roles-00d26a?style=for-the-badge&labelColor=0d1117&logoColor=white)
-
-> 💡 *I'm a B.Tech CSE student actively seeking internships and entry-level roles in Full Stack Development, Frontend Engineering, or Software Development. Let's collaborate and build something amazing together!*
+[![Resume](https://img.shields.io/badge/📄%20View-Resume-0070F3?style=for-the-badge\&labelColor=0d1117)](https://new-portfolio-1-ba0l.onrender.com)
 
 </div>
 
 ---
 
-<!-- ─────────────────────  FOOTER  ───────────────────────────── -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0070F3,40:7928CA,100:0d1117&height=130&section=footer" />
+<div align="center">
+
+![Open for Work](https://img.shields.io/badge/✅%20AVAILABLE-Open%20for%20Internships%20%26%20Roles-00d26a?style=for-the-badge\&labelColor=0d1117)
+
+</div>
+
+---
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0070F3,40:7928CA,100:0d1117&height=120&section=footer"/>
 
 <div align="center">
-  <sub>
-    ⭐ Found this profile useful? Consider <a href="https://github.com/Thiru7869">following</a> me! <br/>
-    ✨ Made with ❤️ and a lot of ☕ by <strong>Thirumala Narasimha Poluru</strong> · Updated June 2026
-  </sub>
+
+⭐ Found this profile useful? Consider following me!
+
+🌐 Portfolio:
+https://new-portfolio-1-ba0l.onrender.com
+
+✨ Made with ❤️ by Thirumala Narasimha Poluru
+
 </div>
+```
