@@ -1,26 +1,56 @@
-name: Generate Snake
+# ============================================================
+#   GitHub Profile — Snake Animation Workflow
+#   File    : .github/workflows/snake.yml
+#   Author  : Thiru7869 (Thirumala Narasimha Poluru)
+#   Purpose : Auto-generate a snake animation from contribution
+#             grid and push it to the 'output' branch so the
+#             README can reference it via raw.githubusercontent
+# ============================================================
+
+name: 🐍 Generate Snake Animation
 
 on:
+  # Run automatically every 12 hours
   schedule:
     - cron: "0 */12 * * *"
 
+  # Allow manual triggering from the Actions tab
   workflow_dispatch:
 
+  # Also regenerate whenever you push to main
+  push:
+    branches:
+      - main
+
 jobs:
-  build:
+  generate-snake:
+    name: Generate Contribution Snake
     runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    permissions:
+      contents: write   # needed to push the output branch
 
     steps:
-      - name: Generate Snake
+      # ──────────────────────────────────────────────────────
+      # Step 1 — Generate both light and dark SVG variants
+      # ──────────────────────────────────────────────────────
+      - name: 🐍 Generate Snake SVG
         uses: Platane/snk@v3
         with:
-          github_user_name: Thiru7869
+          github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Push Snake Animation
-        uses: crazy-max/ghaction-github-pages@v4
+      # ──────────────────────────────────────────────────────
+      # Step 2 — Push generated files to the 'output' branch
+      #          The README references:
+      #          https://raw.githubusercontent.com/Thiru7869/
+      #          Thiru7869/output/github-contribution-grid-snake*.svg
+      # ──────────────────────────────────────────────────────
+      - name: 🚀 Push to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
